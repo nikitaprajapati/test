@@ -56,5 +56,5 @@
         <allow-intent href="market:*" />
     </platform>
     <plugin name="cordova-plugin-splashscreen" spec="~5.0.2" />
-    <preference name="phonegap-version" value="cli-6.0.0" />
+    <preference name="phonegap-version" value="cli-6.5.0" />
 </widget>
