@@ -23,7 +23,7 @@
     <plugin name="cordova-plugin-vibration" source="npm" spec="~2.1.5" />
      <icon src="icon.png"/>
       <!--splash src="splash.png" /-->
-    <preference name="SplashScreen" value="http://starprojects.in/dairy/assets/images/bg.png" />
+    <preference name="SplashScreen" value="screen" />
     <preference name="SplashScreenDelay" value="5000" />
     <platform name="android">
         <!--icon density="ldpi" src="www/res/icon/android/icon.png" />
